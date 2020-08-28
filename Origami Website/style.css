@@ -1,0 +1,13 @@
+body{
+     background: linear-gradient(to right, #00AAFF, #00FF6C);
+}
+
+#home{
+     background: red;
+     padding: 2px;
+     padding-left: 10px;
+}
+
+a{
+     padding:10px;
+}
